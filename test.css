@@ -1,0 +1,17 @@
+#header{
+    width: 500px;
+    margin-right:auto;
+    margin-right:auto;
+    margin-bottom:10px;
+    border:soild 8px black;
+}
+ul{
+    list-style-type:none;
+    padding-left:0px;
+}
+body{
+    background-image: url('halftone-yellow.png');
+}
+
+
+
