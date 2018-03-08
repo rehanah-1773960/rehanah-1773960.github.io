@@ -13,5 +13,45 @@ body{
     background-image: url('halftone-yellow.png');
 }
 
+#leftnav img{
 
+}
 
+#LeftNav ul{  padding-bottom: 8px
+
+}
+
+#leftnav h3{
+
+}
+#content{ padding: 15px; 
+
+}
+
+#footer{
+
+}
+<html>
+<head>
+<style>
+h1 {
+    3px;
+}
+
+h2 {
+    2px;
+}
+
+h3 {
+     3px;
+}
+</style>
+</head>
+<body>
+
+<h1>Connect with me online1</h1>
+<h2>Keith the QB</h2>
+<h3>Connect with me 3</h3>
+
+</body>
+</html>
