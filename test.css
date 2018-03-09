@@ -13,6 +13,31 @@ body{
     background-image: url('halftone-yellow.png');
 }
 
+}	
+footer a:link { color: #2E0000; }
+footer a:visited { color: #000000; }
+footer a:hover { color: #F5F5DC; }   
+#mobile { display: none; }
+#desktop { display: inline; }
+table { margin: auto;
+      width: 80%;
+}
+
+
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+
 #leftnav img{
 
 }
@@ -21,19 +46,23 @@ body{
 
 }
 
-#leftnav h3{
 
-}
 #content{ padding: 15px; 
 
 }
 
 #footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+ }
 
 }
-<html>
-<head>
-<style>
+
 h1 {
     3px;
 }
@@ -45,13 +74,17 @@ h2 {
 h3 {
      3px;
 }
-</style>
-</head>
-<body>
-
-<h1>Connect with me online1</h1>
-<h2>Keith the QB</h2>
-<h3>Connect with me 3</h3>
-
-</body>
-</html>
+}
+nav a { display: block; }
+nav a:hover { color: #333300; }
+main a:link { color: #FFFFFF; }
+main a:visited { color: #EAEAEA; }
+main a:hover { color: #FFD700; }	
+section { margin: 0; }
+#hero { height: auto; }
+section img { display: none; }
+#mobile { display: inline; }
+#desktop { display: none; }
+label { float: none; text-align: left; }
+input[type="submit"] { margin-left: 0; }
+}
